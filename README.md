@@ -1,0 +1,1 @@
+Crie um aplicativo 10-baseado no 9 (resolvendo o problema do bloqueio do cartão)
